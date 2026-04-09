@@ -1,4 +1,4 @@
-# $FOOUB — Fuck OpenClaw OAuth Usage Ban
+# Fuck OpenClaw OAuth Usage Ban
 
 *a simple solution proving that in the world of agentic AI, your moat is dry and weak — all code is liquid now*
 
