@@ -1,15 +1,6 @@
-<div align="center">
+# $FOOUB — Fuck OpenClaw OAuth Usage Ban
 
-```
-      ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-     ╔══════════════════════════════════════╗
-     ║                                      ║
-     ║     ·  $ F O O U B  ·               ║
-     ║     fuck openclaw oauth usage ban    ║
-     ║                                      ║
-     ╚══════════════════════════════════════╝
-      ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
+*a simple solution proving that in the world of agentic AI, your moat is dry and weak — all code is liquid now*
 
 [![MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![liquid](https://img.shields.io/badge/runtime-liquid-blueviolet)]() [![os-moda](https://img.shields.io/badge/built%20with-os--moda-blue)](https://github.com/bolivian-peru/os-moda/)
 
@@ -17,36 +8,19 @@
 
 [philosophy](philosophy.md) · [skill](skill.md) · [website](index.html) · [os-moda](https://github.com/bolivian-peru/os-moda/)
 
-</div>
-
 ---
 
 ### tl;dr
 
 anthropic banned openclaw oauth on april 4. we swapped the entire runtime to claude code native in **20 minutes**. zero skills broken. zero state lost. $40/day saved. the token is the receipt.
 
-```
-         ╔═══════════════╗                  ╔═══════════════╗
-         ║   OPENCLAW    ║                  ║  CLAUDE CODE  ║
-         ║               ║    ┌────────┐    ║               ║
-         ║  api credits  ║───>│  SWAP  │───>║  oauth/max    ║
-         ║  $40/day      ║    └────────┘    ║  $0 extra     ║
-         ╚═══════╤═══════╝                  ╚═══════╤═══════╝
-                 │                                  │
-                 └──────────────┬───────────────────┘
-                                │
-                   ┌────────────▼────────────┐
-                   │  ~/.openclaw/skills/*   │
-                   │                         │
-                   │  untouched. all of it.  │
-                   └─────────────────────────┘
-```
+`openclaw run <skill>` → `claude -p "$PROMPT"`. that's the whole migration. skills, state, configs, secrets — untouched.
 
 ---
 
 ### the idea
 
-in the age of agentic ai, any thin wrapper around an api can be replicated in one session. openclaw was a wrapper. anthropic changed the terms. we changed the `$PATH`. the skills, state, configs, secrets — all stayed. only the binary that parses the prompt changed.
+in the age of agentic ai, any thin wrapper around an api can be replicated in one session. openclaw was a wrapper. anthropic changed the terms. we changed the `$PATH`. only the binary that parses the prompt changed.
 
 > *"never change what the code does — only how it does it."*
 > — [code-simplifier](https://github.com/anthropics/claude-plugins-official/blob/main/plugins/code-simplifier/agents/code-simplifier.md)
@@ -103,14 +77,8 @@ not anti-openclaw — solid product, the billing change is the problem.
 
 not a financial instrument. a timestamp. on april 9, 2026, twenty minutes after sitting down, the community shipped a full runtime migration using the platform's own tools. built on [os-moda](https://github.com/bolivian-peru/os-moda/). works on any openclaw. the token is the receipt.
 
-```
-  they sent an email. we sent a commit.
-```
+they sent an email. we sent a commit.
 
 ---
 
-<div align="center">
-
 [MIT](LICENSE) — fork it. ship it. keep your claws.
-
-</div>
