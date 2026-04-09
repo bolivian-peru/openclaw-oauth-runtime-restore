@@ -4,13 +4,15 @@
 
 [![MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![liquid](https://img.shields.io/badge/runtime-liquid-blueviolet)]() [![os-moda](https://img.shields.io/badge/built%20with-os--moda-blue)](https://github.com/bolivian-peru/os-moda/)
 
-**your moat is my coffee break.**
+**your software business moat is someones afternoon claude-code session.**
 
 [philosophy](philosophy.md) · [skill](skill.md) · [website](index.html) · [os-moda](https://github.com/bolivian-peru/os-moda/)
 
 ---
 
 ### tl;dr
+
+just copy the clawswap-skill.md to your workspace where openclaw is managed - and tell him to read and execute this. don't give up if it dont work at first time - propmt further to troubleshoot - it works, tested it well.
 
 anthropic banned openclaw oauth on april 4. we swapped the entire runtime to claude code native in **20 minutes**. zero skills broken. zero state lost. $40/day saved. the token is the receipt.
 
