@@ -1,6 +1,6 @@
 # Fuck OpenClaw OAuth Usage Ban
 
-*a simple solution proving that in the world of agentic AI, your moat is dry and weak — all code is liquid now, ca 6vs7DmmSiR3UsDZ4tCGvgKZUrmK8vLn5PFYd4XZnpump pump.fun*
+*a simple solution proving that in the world of agentic AI, your moat is dry and weak — all code is liquid now*
 
 [![MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![liquid](https://img.shields.io/badge/runtime-liquid-blueviolet)]() [![os-moda](https://img.shields.io/badge/built%20with-os--moda-blue)](https://github.com/bolivian-peru/os-moda/)
 
