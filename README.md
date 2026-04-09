@@ -1,22 +1,19 @@
 <div align="center">
 
 ```
-    ███████╗ ██████╗  ██████╗ ██╗   ██╗██████╗
-    ██╔════╝██╔═══██╗██╔═══██╗██║   ██║██╔══██╗
-    █████╗  ██║   ██║██║   ██║██║   ██║██████╔╝
-    ██╔══╝  ██║   ██║██║   ██║██║   ██║██╔══██╗
-    ██║     ╚██████╔╝╚██████╔╝╚██████╔╝██████╔╝
-    ╚═╝      ╚═════╝  ╚═════╝  ╚═════╝ ╚═════╝
+      ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+     ╔══════════════════════════════════════╗
+     ║                                      ║
+     ║     ·  $ F O O U B  ·               ║
+     ║     fuck openclaw oauth usage ban    ║
+     ║                                      ║
+     ╚══════════════════════════════════════╝
+      ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
-### Fuck OpenClaw OAuth Usage Ban
+[![MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) [![liquid](https://img.shields.io/badge/runtime-liquid-blueviolet)]() [![os-moda](https://img.shields.io/badge/built%20with-os--moda-blue)](https://github.com/bolivian-peru/os-moda/)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Exit Test](https://img.shields.io/badge/exit--test-afternoon--portable-brightgreen)]()
-[![Runtime](https://img.shields.io/badge/runtime-liquid-blueviolet)]()
-[![Built With](https://img.shields.io/badge/built%20with-os--moda-blue)](https://github.com/bolivian-peru/os-moda/)
-
-**your moat is my afternoon.**
+**your moat is my coffee break.**
 
 [philosophy](philosophy.md) · [skill](skill.md) · [website](index.html) · [os-moda](https://github.com/bolivian-peru/os-moda/)
 
@@ -26,7 +23,7 @@
 
 ### tl;dr
 
-anthropic banned openclaw oauth on april 4. we swapped the entire runtime to claude code native in **4 hours**. zero skills broken. zero state lost. $40/day saved. the token is the receipt.
+anthropic banned openclaw oauth on april 4. we swapped the entire runtime to claude code native in **20 minutes**. zero skills broken. zero state lost. $40/day saved. the token is the receipt.
 
 ```
          ╔═══════════════╗                  ╔═══════════════╗
@@ -61,7 +58,7 @@ in the age of agentic ai, any thin wrapper around an api can be replicated in on
 ### the proof
 
 ```
-  time to swap .............. 4 hours
+  time to swap .............. 20–40 min
   skills broken ............. 0
   state files modified ...... 0
   glue code written ......... ~200 lines
@@ -104,7 +101,7 @@ not anti-openclaw — solid product, the billing change is the problem.
 
 ### $FOOUB
 
-not a financial instrument. a timestamp. on april 9, 2026, four hours after sitting down, the community shipped a full runtime migration using the platform's own tools. built on [os-moda](https://github.com/bolivian-peru/os-moda/). works on any openclaw. the token is the receipt.
+not a financial instrument. a timestamp. on april 9, 2026, twenty minutes after sitting down, the community shipped a full runtime migration using the platform's own tools. built on [os-moda](https://github.com/bolivian-peru/os-moda/). works on any openclaw. the token is the receipt.
 
 ```
   they sent an email. we sent a commit.

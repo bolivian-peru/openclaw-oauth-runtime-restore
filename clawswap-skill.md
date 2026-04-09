@@ -22,7 +22,7 @@ requires:
 
 # ClawSwap — OpenClaw → Claude Code Runtime Migration
 
-One master skill. Swaps the runtime, keeps the claws. Four hours, tested on
+One master skill. Swaps the runtime, keeps the claws. ~20 min, tested on
 [os-moda](https://github.com/bolivian-peru/os-moda/), works on any OpenClaw setup.
 
 ## Rules

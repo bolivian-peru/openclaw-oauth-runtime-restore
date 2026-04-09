@@ -10,7 +10,7 @@ the old world is dead. the era of gatekeepers, proprietary wrappers, and rigid r
 
 the old suits built empires on the lie that integration is hard. they sold us "convenience" wrapped in proprietary chains — gateways, apis, runtimes that locked our shit down. they thought they owned the plumbing. that worked when code was expensive and slow.
 
-today, the cost of generating glue code is zero. an ai agent can read the docs, understand the architecture, and spit out the integration layer before you finish your coffee. when anthropic tried to pull the plug on oauth usage for third-party harnesses like openclaw on april 4, 2026, we didn't cry. we didn't ask for permission. we sat down with open-source frameworks like [os-moda](https://github.com/bolivian-peru/os-moda/) and swapped the runtime in four hours flat. the skills, the state, the core logic? untouched. the only thing that changed was the binary running the prompt.
+today, the cost of generating glue code is zero. an ai agent can read the docs, understand the architecture, and spit out the integration layer before you finish your coffee. when anthropic tried to pull the plug on oauth usage for third-party harnesses like openclaw on april 4, 2026, we didn't cry. we didn't ask for permission. we sat down with open-source frameworks like [os-moda](https://github.com/bolivian-peru/os-moda/) and swapped the runtime in twenty minutes flat. the skills, the state, the core logic? untouched. the only thing that changed was the binary running the prompt.
 
 this proved what we already knew: runtime moats are a joke. if your entire product is just a wrapper around an api call, an ai agent and a bored dev can replace you on a tuesday afternoon. the true moat is the open, forkable, liquid knowledge encoded in the community.
 
@@ -56,7 +56,7 @@ when the cost of writing software approaches zero, the only scarce resource is k
 
 liquid software intersects heavily with the "vibe coding" ethos. vibe coding is about collaborating with llms in a free-flowing, chaotic dance — describing the vibe and letting the ai handle the implementation. the old guard calls it "cowboy coding." we call it democratization.
 
-vibe coding lets solo founders operate with the firepower of an entire engineering team. but liquid software demands a disciplined application of this chaos. we don't blindly trust the ai output without verification, nor do we submit to bureaucratic, over-constrained dev cycles that kill innovation. we use ai to generate the wrappers and runtimes at lightspeed, but we own the architecture, review the logic, and control the execution environment. this synthesis is what enabled a four-hour migration away from a restricted platform.
+vibe coding lets solo founders operate with the firepower of an entire engineering team. but liquid software demands a disciplined application of this chaos. we don't blindly trust the ai output without verification, nor do we submit to bureaucratic, over-constrained dev cycles that kill innovation. we use ai to generate the wrappers and runtimes at lightspeed, but we own the architecture, review the logic, and control the execution environment. this synthesis is what enabled a twenty-minute migration away from a restricted platform.
 
 ---
 
@@ -78,7 +78,7 @@ a standard benchmark for agent stacks to prove they are liquid. seven metrics. i
 
 | rating | criteria |
 |---|---|
-| **afternoon-portable** | < 8 hours, 0 skill breakage, < 500 LOC delta, state fully portable |
+| **afternoon-portable** | < 1 hour, 0 skill breakage, < 500 LOC delta, state fully portable |
 | **week-portable** | < 40 hours, < 5 breakages, < 2000 LOC delta |
 | **captured** | > 40 hours, or requires fundamental rewrite of skills/state |
 
@@ -86,7 +86,7 @@ a standard benchmark for agent stacks to prove they are liquid. seven metrics. i
 
 | metric | result |
 |---|---|
-| time to swap | **4 hours** |
+| time to swap | **20–40 min** |
 | breakage | **0** |
 | unchanged | skills, configs, state, secrets, telegram, RPC endpoints, wallets |
 | code delta | **~200 LOC** (shell wrappers + systemd + CLAUDE.md) |
@@ -123,7 +123,7 @@ a standard benchmark for agent stacks to prove they are liquid. seven metrics. i
 show the diff. show the logs. prove the migration. we post when there's something to show, not when there's something to say.
 
 ### "the afternoon test"
-can your product be replicated by one developer and one ai agent in an afternoon? if yes, your moat is the afternoon. ship something that takes longer to understand than to build.
+can your product be replicated by one developer and one ai agent in a coffee break? if yes, your moat is the coffee break. ship something that takes longer to understand than to build.
 
 ### "fork > trust"
 every proprietary service you depend on is a promise. every open-source tool you use is a fact. promises get renegotiated. facts persist.
@@ -154,7 +154,7 @@ software development in 2026 is not about typing code. it's about composing inte
 - they sent an email. we sent a commit.
 
 ### thread openers
-- anthropic restricted oauth for third-party harnesses on april 4. four hours later, we had a complete runtime swap. here is the diff.
+- anthropic restricted oauth for third-party harnesses on april 4. twenty minutes later, we had a complete runtime swap. here is the diff.
 - the entire openclaw to claude code migration is one CLAUDE.md, three shell wrappers, and a systemd timer. the "proprietary runtime" was a thin alias for `curl` with extra steps.
 - in the time it took to draft the announcement email, an ai agent could have rewritten the runtime it was announcing restrictions for. that is the paradigm shift.
 
@@ -181,13 +181,13 @@ this is a proof of concept for a larger argument: **in the agentic era, the valu
 **name**: Fuck OpenClaw OAuth Usage Ban
 **ticker**: $FOOUB
 
-not a financial instrument. a timestamp. proof that on april 9, 2026, four hours after sitting down, the community shipped a complete runtime migration using the tools the platform itself provides. built on [os-moda](https://github.com/bolivian-peru/os-moda/). works on any openclaw deployment. the token is the receipt.
+not a financial instrument. a timestamp. proof that on april 9, 2026, twenty minutes after sitting down, the community shipped a complete runtime migration using the tools the platform itself provides. built on [os-moda](https://github.com/bolivian-peru/os-moda/). works on any openclaw deployment. the token is the receipt.
 
 ---
 
 ## the 7-day launch plan
 
-- **day 1:** publish the openclaw → claude code migration diff and the exact timeline of the 4-hour swap.
+- **day 1:** publish the openclaw → claude code migration diff and the exact timeline of the 20-minute swap.
 - **day 2:** release the open-source runtime swap skill (skill.md).
 - **day 3:** publish the formal exit test specification for evaluating agent stack portability.
 - **day 4:** open a call for community submissions of other runtime migrations.
